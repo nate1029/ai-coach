@@ -1,0 +1,7 @@
+python-telegram-bot
+google-generativeai
+supabase
+requests
+python-dotenv
+schedule
+rapidfuzz
